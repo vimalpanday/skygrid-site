@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://skygrid-it.in/sitemap.xml
